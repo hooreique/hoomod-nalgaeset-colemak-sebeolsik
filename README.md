@@ -1,7 +1,7 @@
 # Hoomod for Nalgaeset
 
-Default Nalgaeset config + Hoomoded sebeolsik + Colemak
+Default Nalgaeset config + Hoomoded Sebeolsik + Colemak
 
-## Hoomoded sebeolsik
+## Hoomoded Sebeolsik
 
-Default sebeolsik final + Qwerty-like special character layout
+Default Sebeolsik final + Qwerty-like special character layout
